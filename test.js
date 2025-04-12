@@ -1,0 +1,1 @@
+alert("Warning!!! Run!! Now!! Your Computer is about to blow!! 5 seconds until detonation and counting.....J/K its a joke :)... Enjoy my first HTML assignment!!");
